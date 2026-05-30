@@ -1,4 +1,4 @@
-#ifndef CUSTOM_WAKE_WORD_H
+idf.py set-target esp32#ifndef CUSTOM_WAKE_WORD_H
 #define CUSTOM_WAKE_WORD_H
 
 #include <esp_attr.h>
